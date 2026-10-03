@@ -1,4 +1,3 @@
-# ComplyGem
 # 🌩️ AEGIS WX
 
 ### AI-Driven Spatio-Temporal Intelligence for Extreme Weather Anomalies
