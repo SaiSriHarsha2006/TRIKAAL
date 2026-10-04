@@ -1,4 +1,4 @@
-# 🌩️ AEGIS WX
+# 🌩️ TRIKAAL
 
 ### AI-Driven Spatio-Temporal Intelligence for Extreme Weather Anomalies
 
